@@ -58,7 +58,7 @@ class _AuthScreenState extends State<AuthScreen> {
             .setData({
           'username': username,
           'email': email,
-          'imgae_url': url,
+          'image_url': url,
         });
       }
     } on PlatformException catch (error) {
