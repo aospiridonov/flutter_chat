@@ -23,3 +23,8 @@ android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
 .flutter-plugins
 .flutter-plugins-dependencies
+node_modules/
+
+functions/package-lock.json
+package-lock.json
+functions/package-lock.json
